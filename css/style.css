@@ -565,6 +565,10 @@ footer {
         box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
     }
 
+    .hebergements-card {
+        padding: 5px;
+    }
+
     .hebergements-title h2 {
         font-size: 18px;
     }
